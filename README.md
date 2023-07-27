@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **Django, flask, redis, postgresql,**
-
-- 📄 Know about my experiences [www.linkedin.com/in/ali-hajjar](www.linkedin.com/in/ali-hajjar)
+- 💬 Ask me about **Django, flask, redis, postgresql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
