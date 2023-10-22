@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliya-hajjar&label=Profile%20views&color=0e75b6&style=flat" alt="iliya-hajjar" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Django, flask, redis, postgresql**
 
