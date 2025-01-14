@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Django, flask, redis, postgresql**
+- 💬 Ask me about **Django, Flask, Redis, Postgresql, Celery, and Smart Contract**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
