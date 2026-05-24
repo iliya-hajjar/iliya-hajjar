@@ -60,6 +60,7 @@ me.say_hi()
 <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/Circum-000000?style=for-the-badge&logo=circum&logoColor=white" alt="Circum"/>
 </p>
 
 ### Other Technologies
@@ -67,7 +68,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Circum-000000?style=for-the-badge&logo=circum&logoColor=white" alt="Circum"/>
 </p>
 
 <br/>
