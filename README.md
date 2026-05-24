@@ -67,6 +67,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Circum-000000?style=for-the-badge&logo=circum&logoColor=white" alt="Circum"/>
 </p>
 
 <br/>
