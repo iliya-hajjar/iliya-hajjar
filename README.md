@@ -72,59 +72,6 @@ me.say_hi()
 
 <br/>
 
-## 🖥️ Dev Snapshot
-
-```
-ali@backend-engineer
-─────────────────────
-OS:        🌍 Remote-friendly
-Shell:     bash
-Editor:    vim / vscode
-Languages: Python, JavaScript, Solidity
-Frameworks: Django, Flask, Celery
-Uptime:    Building since 2018
-Status:    ● Open to collaborations
-```
-
-<br/>
-
-## ⚡ GitHub Pulse
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/iliya-hajjar?style=for-the-badge&logo=github&color=A855F7&labelColor=black" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=iliya-hajjar&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile views"/>
-</div>
-
-> Live counts from GitHub itself via [shields.io](https://shields.io) — no third-party rendering service to go down.
-
-<br/>
-
-## 🧭 Currently
-
-| | |
-|---|---|
-| 🔨 **Building** | Backend systems with Django, Flask & Celery |
-| 📚 **Learning** | AWS & Blockchain development |
-| 🤝 **Open to** | Collaborations & interesting projects |
-| 💬 **Ask me about** | Django, Flask, Redis, Smart Contracts |
-
-<br/>
-
-## 📌 Featured Projects
-
-<!-- Swap in your real repo names below — the stars/last-commit badges will then pull live data straight from GitHub. -->
-
-<div align="center">
-
-| Project | Description | |
-|---|---|---|
-| **[project-one](https://github.com/iliya-hajjar/project-one)** | Short one-line description of what it does | ![Stars](https://img.shields.io/github/stars/iliya-hajjar/project-one?style=flat-square&color=A855F7) |
-| **[project-two](https://github.com/iliya-hajjar/project-two)** | Short one-line description of what it does | ![Stars](https://img.shields.io/github/stars/iliya-hajjar/project-two?style=flat-square&color=A855F7) |
-
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
