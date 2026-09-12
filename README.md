@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Hajjar;Tech+Lead+%7C+Software+Engineer;8%2B+Years+in+Python+%7C+Django+%7C+Flask;Blockchain+Developer+%7C+Smart+Contracts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Hajjar;Software+Engineer+%7C+Backend+Specialist;Python+%7C+Django+%7C+Flask+%7C+AWS;Blockchain+%7C+Smart+Contracts" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,26 +11,21 @@
 ## 🚀 About Me
 
 ```python
-class AliHajjar:
+class SoftwareEngineer:
     def __init__(self):
-        self.role = "Tech Lead & Software Engineer"
-        self.experience = "8+ years"
-        self.currently = "Melligold — redesigning wallet architecture at scale"
-        self.past = ["Jibit", "Nobitex", "Alobizness", "Panco", "Diba"]
-        self.impact = [
-            "8x throughput on a ledger-based wallet redesign (500 → 4,000 RPS)",
-            "Scaled backend systems supporting 10M+ users",
-            "Led and mentored engineering teams of 13+",
-        ]
+        self.name = "Ali Hajjar"
+        self.role = "Software Engineer"
+        self.location = "🌍"
+        self.currently_learning = ["AWS", "Blockchain Development"]
         self.expertise = [
-            "Django", "Flask", "Celery", "PostgreSQL",
-            "Redis", "Solidity", "Web3", "Docker",
+            "Django", "Flask", "Redis", 
+            "PostgreSQL", "Celery", "Smart Contracts"
         ]
-
+    
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
 
-me = AliHajjar()
+me = SoftwareEngineer()
 me.say_hi()
 ```
 
@@ -85,25 +80,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 </p>
-
-<br/>
-
-## 💼 Experience
-
-| Company | Role | Period |
-|---|---|---|
-| **Melligold** | Tech Lead & Software Engineer | Mar 2025 – Present |
-| **Jibit** | Tech Lead & Software Engineer | Oct 2023 – Dec 2024 |
-| **Nobitex** | Software Engineer & Blockchain Developer | Mar 2022 – Oct 2023 |
-| **Alobizness** | Back-End Developer & DevOps | Oct 2020 – Jan 2022 |
-| **Panco** | Back-End Developer & DevOps | Aug 2019 – Sep 2020 |
-| **Diba** | Back-End Developer & DevOps | Jan 2017 – Jul 2019 |
-
-**Highlights**
-- 🚀 Redesigned wallet architecture to a ledger-based model at Melligold, driving 8x throughput (500 → 4,000 RPS) and 3x sales volume growth
-- 👥 Led and mentored a team of 13 engineers across backend, infrastructure, and platform
-- 🏦 Scaled backend systems supporting 10M+ users at Nobitex and 15M+ at Melligold
-- 🔐 Built multi-signature and HD wallet systems, and cold/hot wallet infrastructure with Django, Flask & Web3
 
 <br/>
 
