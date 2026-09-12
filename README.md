@@ -90,16 +90,6 @@ me.say_hi()
 
 <br/>
 
-## 🗣️ Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Persian-Native-A855F7?style=for-the-badge" alt="Persian - Native"/>
-  <img src="https://img.shields.io/badge/English-C1-A855F7?style=for-the-badge" alt="English - C1"/>
-  <img src="https://img.shields.io/badge/German-B2-A855F7?style=for-the-badge" alt="German - B2"/>
-</p>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
